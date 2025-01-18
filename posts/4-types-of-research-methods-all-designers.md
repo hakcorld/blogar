@@ -1,12 +1,12 @@
 ---
 postFormat: 'standard'
-title: '4 types of research methods all designers should know'
+title: 'What is Linea Builder LXB Airdrop?'
 featureImg: '/images/posts/thumbnail-01.webp'
 slidePost: true
-date: 'Feb 30 2022'
+date: 'Jan 20 2025'
 pCate: 'Tech Blog'
-cate: 'Design'
-cate_img: '/images/posts/category/design.webp'
+cate: 'Blockchain'
+cate_img: '/images/posts/category/design.png'
 post_views: '200K Views'
 read_time: '3 min read'
 author_name: 'Rose Mary'
@@ -38,41 +38,47 @@ tags:
 
 **Winners are recognized for outstanding app design, innovation, ingenuity, and technical achievement**
 
-![Post Images](/images/post-single/post-single-02.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
+![Post Images](/images/post-single/post-single-02.PNG)
+*What is Linea Builder LXB Airdrop?.*
 
-Apple today named eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
+The Linea Builder LXB Airdrop is an exclusive event designed to reward and engage the Linea blockchain community by distributing free LXB tokens to eligible participants. It is a strategic initiative aimed at fostering adoption, building awareness, and incentivizing participation in the Linea Builder ecosystem.
 
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
+## Why Participate in the Linea Builder LXB Airdrop?
 
-## Apple Design Award Winners: Apps
+	1.	Free Tokens: Receive LXB tokens without any initial investment.
+	2.	Community Rewards: Be part of a vibrant community of builders and innovators.
+	3.	Platform Engagement: Use the distributed tokens to explore Linea Builder features, such as dApp creation and staking.
+	4.	Exclusive Benefits: Early adopters often gain access to exclusive rewards and perks within the ecosystem.
 
-Apple today named eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
+![Post Images](/images/post-single/post-single-02.PNG)
+*Linea Airdrop Ongoing*
 
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
+## How Does It Work?
 
-> “Most of us felt like we could trust each other to be quarantined together, so we didn’t need to wear masks or stay far apart.”
+	1.	Sign Up: Register on the Linea Builder platform or participate through official partner channels.
+	2.	Complete Tasks: Fulfill specific requirements, such as social media engagements, referrals, or project contributions.
+	3.	Claim Tokens: Upon meeting the eligibility criteria, the allocated LXB tokens will be distributed directly to your wallet.
 
-![Post Images](/images/post-single/post-single-03.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
+## Eligibility Criteria
+Participants may need to:
+	•	Hold a Linea-compatible wallet.
+	•	Complete verifiable tasks such as sharing posts, inviting friends, or testing Linea Builder tools.
+	•	Adhere to any additional terms set by the Linea Builder team.
 
-## Apple Design Award Winners: Apps
+What Makes the Linea Builder Airdrop Unique?
+	•	Targeted Rewards: Tailored to engage developers, investors, and blockchain enthusiasts.
+	•	Token Utility: LXB tokens can be used for staking, governance, and accessing premium features on the platform.
+	•	Transparent Distribution: Airdrop allocations are publicly verifiable on the blockchain, ensuring trust and transparency.
 
-[Apple today named](#) eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
+How to Prepare for the Airdrop?
+	1.	Set up a Linea-compatible crypto wallet.
+	2.	Follow the official Linea Builder social media channels for announcements.
+	3.	Stay updated on deadlines and required tasks to maximize your participation.
 
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
+## Conclusion
 
-![Post Images](/images/post-single/post-single-04.webp)
-*The Apple Design Award trophy, created by the Apple Design team, is a symbol of achievement and excellence.*
+The Linea Builder LXB Airdrop is more than just free tokens—it’s an opportunity to immerse yourself in the future of blockchain technology while earning rewards. Don’t miss the chance to be part of this revolutionary ecosystem
 
-## Apple Design Award Winners: Apps
-
-[Apple today named](#) eight app and game developers receiving an Apple Design Award, each one selected for being thoughtful and creative. Apple Design Award winners bring distinctive new ideas to life and demonstrate deep mastery of Apple technology. The apps spring up from developers large and small, in every part of the world, and provide users with new ways of working, creating, and playing.
-
-“Every year, app and game developers demonstrate exceptional craftsmanship and we’re honoring the best of the best,” said Ron Okamoto, Apple’s vice president of Worldwide Developer Relations. “Receiving an Apple Design Award is a special and laudable accomplishment. Past honorees have made some of the most noteworthy apps and games of all time. Through their vision, determination, and exacting standards, the winning developers inspire not only their peers in the Apple developer community, but all of us at Apple, too.”
-
-More than 250 developers have been recognized with Apple Design Awards over the past 20 years. The recognition has proven to be an accelerant for developers who are pioneering innovative designs within their individual apps and influencing entire categories. Previous winners such as Pixelmator, djay, Complete Anatomy, HomeCourt, “Florence,” and “Crossy Road” have set the standard in areas such as storytelling, interface design, and use of Apple tools and technologies.
-
-For more information on the apps and games, visit the [App Store](#).
+For more information on the apps and games, visit the [https://lineas.io](#).
 
 

@@ -55,58 +55,8 @@ const Nav = ({posts}) => {
         <ul className="mainmenu">
             <li className="menu-item-has-children"><a href="#">Home</a>
                 <ul className="axil-submenu">
-                    <li>
-                        <Link href="/">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Default">Home Default</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/creative-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Creative Blog">Home Creative Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/seo-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home SEO Blog">Home SEO Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/tech-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Tech Blog">Home Tech Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <Link href="/lifestyle-blog">
-                            <a className="hover-flip-item-wrapper">
-                                <span className="hover-flip-item">
-                                    <span data-text="Home Lifestyle Blog">Home Lifestyle Blog</span>
-                                </span>
-                            </a>
-                        </Link>
-                    </li>
-                    <li>
-                        <a href="https://new.axilthemes.com/demo/react/blogar-rtl" className="hover-flip-item-wrapper">
-                            <span className="hover-flip-item">
-                                <span data-text="RTL Version">RTL Version</span>
-                            </span>
-                        </a>
-                    </li>
+                    
+                    
                 </ul>
             </li>
             <li className="menu-item-has-children">
@@ -163,7 +113,7 @@ const Nav = ({posts}) => {
             </li>
             <li className="menu-item-has-children megamenu-wrapper">
                 <Link href="#">
-                    <a>Mega Menu</a>
+                    <a>Category</a>
                 </Link>
                 <ul className="megamenu-sub-menu">
                     <li className="megamenu-item">

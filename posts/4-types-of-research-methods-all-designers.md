@@ -1,7 +1,7 @@
 ---
 postFormat: 'standard'
 title: 'What is Linea Builder LXB Airdrop?'
-featureImg: '/images/posts/thumbnail-01.webp'
+featureImg: '/images/posts/thumbnail01.webp'
 slidePost: true
 date: 'Jan 20 2025'
 pCate: 'Tech Blog'
